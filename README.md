@@ -61,7 +61,7 @@ ipprojekt_exported
 </ul>
 
 
-### System Features
+### Features
 
 <ul>
   <li><strong>Dual-Color Space Segmentation:</strong>
@@ -75,9 +75,6 @@ ipprojekt_exported
   </li>
   <li><strong>Hex Code Representation:</strong>
     <p>Converts RGB values of the dominant tone into a hex code, offering a standardized reference.</p>
-  </li>
-  <li><strong>Clothing Recommendations:</strong>
-    <p>Outputs complementary clothing colors tailored to the detected skin tone.</p>
   </li>
 </ul>
 
