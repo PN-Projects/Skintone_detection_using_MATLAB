@@ -59,7 +59,10 @@ ipprojekt_exported
     </ul>
   </li>
 </ul>
-<h3>System Features</h3>
+
+
+### System Features
+
 <ul>
   <li><strong>Dual-Color Space Segmentation:</strong>
     <p>Uses YCbCr and HSV color spaces to ensure reliable skin tone detection under diverse lighting conditions.</p>
@@ -78,13 +81,14 @@ ipprojekt_exported
   </li>
 </ul>
 
-<h3>Additional Notes</h3>
+### Additional Notes 
+
 <ul>
   <li>Ensure high-quality images are used for better results. Poor lighting or low resolution may affect accuracy.</li>
   <li>If encountering any issues, verify that all toolboxes are installed and the MATLAB version meets the system requirements.</li>
 </ul>
 
-<h3>Future Improvements</h3>
+### Future Improvements
 <ul>
   <li>Automating skin region detection using deep learning techniques.</li>
   <li>Supporting additional color spaces (e.g., Lab, Luv) for higher precision.</li>
