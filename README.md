@@ -20,11 +20,9 @@ Before running the project, ensure the following MATLAB toolboxes are installed:
   
 ### Running the Application
 
-<h4>Clone the Repository</h4>
-<p>Download the code files or clone the repository to your local machine.</p>
-<pre><code>
-git clone &lt;repository-url&gt;
-</code></pre>
+<h4>Setting Up Environment </h4>
+Deal with this step by yourself 
+clone the contents of this repo as per your convenience and deal with setting up path etc...
 
 <h4>Launch MATLAB</h4>
 <p>Open MATLAB and navigate to the folder containing the application files.</p>
