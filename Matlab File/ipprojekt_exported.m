@@ -1,3 +1,13 @@
+% Caution!
+% For academic and research uses ( with proper credits ) only 
+% In any case of:-
+% - Redistribution of modified code
+% - Commercial Use
+% - Kanging 
+% - In kind of breach in the policy of CC by-NC/ND 
+% The doer will be endorsed for the breach of Policy to use this software ( Kindly find in LICENSE )
+
+
 classdef ipprojekt_exported < matlab.apps.AppBase
 
     % Properties that correspond to app components
