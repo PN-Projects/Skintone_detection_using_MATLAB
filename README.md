@@ -4,7 +4,7 @@ This project presents an innovative MATLAB-based system for detecting skin tone 
 
 The methodology integrates manual region selection with algorithmic processes, providing precise results while minimizing errors caused by lighting or background variations. This project is an accessible tool for use in digital fashion, cosmetics, and academic research.
 ## Flow chart
-[flow](https://postimg.cc/bdQJznFv)
+<a href="https://ibb.co/br7XYfK"><img src="https://i.ibb.co/4jJpCQV/Untitled-diagram-2025-01-11-104316.png" alt="Untitled-diagram-2025-01-11-104316" border="0"></a>
 
 ## Steps to Set Up and Run
 ### System Requirements
