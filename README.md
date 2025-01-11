@@ -3,6 +3,8 @@
 This project presents an innovative MATLAB-based system for detecting skin tone and extracting its representative color in the form of a hex code. The system leverages multi-dimensional color spaces (YCbCr and HSV) combined with k-means clustering for accurate skin tone identification. Designed to be user-friendly yet robust, the extracted hex code enables practical applications such as personalized clothing color recommendations and digital styling.
 
 The methodology integrates manual region selection with algorithmic processes, providing precise results while minimizing errors caused by lighting or background variations. This project is an accessible tool for use in digital fashion, cosmetics, and academic research.
+## Flow chart
+[![flow](https://postimg.cc/bdQJznFv)](https://github.com/PN-Projects/Skintone_detection_using_MATLAB)
 
 ## Steps to Set Up and Run
 ### System Requirements
